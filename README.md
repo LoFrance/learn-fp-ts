@@ -8,6 +8,10 @@ Per usare il repository è necessario installare le dipendenze con `npm install`
 
 Possiamo eseguire il condice con `npm start` e selezionare il livello di esercizio che vogliamo eseguire.
 
+Si consiglia di eseguire gli esercizi in sequenza, partendo dal livello 1.
+
+La sezione `io-ts` può essere consultata mano a mano che si prosegue con il tutorial, in quanto gli esempi contengono utilizzi dei tipi `fp-ts`.
+
 ## 2. Option
 
 Con `Option` possiamo rappresentare un valore che potrebbe non esistere. Con `some` rappresentiamo un valore che esiste, con `none` rappresentiamo un valore che non esiste.
