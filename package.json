@@ -9,10 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "fp-ts": "^2.16.9"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "fp-ts": "^2.16.9",
+    "io-ts": "^2.2.21",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.4"
   }
